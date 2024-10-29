@@ -1,0 +1,14 @@
+.btn-green {
+	background-color: #31511E;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-white {
+	background-color: transparent;
+	color: black;
+	padding: 15px 20px;
+	font-size: 19px ;
+}
